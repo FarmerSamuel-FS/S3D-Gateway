@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/s3d-gateway.git
+git clone https://github.com/FarmerSamuel-FS/S3D-Gateway.git
 Install dependencies:
 
 bash
