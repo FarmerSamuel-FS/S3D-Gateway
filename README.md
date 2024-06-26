@@ -24,6 +24,7 @@ bash
 Copy code
 git clone https://github.com/FarmerSamuel-FS/S3D-Gateway.git
 Install dependencies:
+react-router-dom@latest
 
 bash
 Copy code
