@@ -1,0 +1,17 @@
+/* src/components/AboutCard.css */
+.about-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 20px 0;
+}
+
+.about-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-card ul li {
+  margin: 5px 0;
+}

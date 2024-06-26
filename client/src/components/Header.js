@@ -1,9 +1,14 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
     <header>
-      <h1>S3D-Gateway</h1>
+      <div className="user-avatar">
+        <Link to="/user">
+          <img src="path_to_avatar_image" alt="User Avatar" />
+        </Link>
+      </div>
     </header>
   );
 }

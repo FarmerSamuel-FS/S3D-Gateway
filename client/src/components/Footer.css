@@ -1,0 +1,31 @@
+/* src/components/Footer.css */
+.footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.footer .contact-info {
+  margin-top: 10px;
+}
+
+.footer .social-media ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer .social-media ul li {
+  margin: 0 10px;
+}
